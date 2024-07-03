@@ -42,5 +42,3 @@ if __name__ == "__main__":
         source_dir = sys.argv[1]
         dest_dir = sys.argv[2]
         backup_files(source_dir, dest_dir)
-
-########python backup.py /path/to/source_directory /path/to/destination_directory
