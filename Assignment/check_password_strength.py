@@ -1,6 +1,5 @@
 import re
 
-#Method Overloading --(Same method name but different input params)
 def check_password_validation(password):
 
     # Check the password length > 8
